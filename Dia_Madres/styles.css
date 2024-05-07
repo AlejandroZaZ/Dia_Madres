@@ -1,7 +1,10 @@
 button {
     padding: 0;
-  }
-  body {
+}
+img{
+    max-width: 90%;
+}
+body {
     align-items: center;
     background-color: #fff8e7;
     color: #545454;
