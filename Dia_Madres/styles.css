@@ -130,4 +130,7 @@ body {
     height: 12px;
     width: 44%;
   }
-  
+  .progress-time-current, .progress-time-total {
+    font-size: 14px;
+    margin-top: 5px;
+}
